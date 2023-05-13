@@ -1,8 +1,8 @@
-[![Header](https://media4.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif)](https://github.com/theCodingWhiz)
+[![Header](https://github.com/theCodingWhiz/theCodingWhiz/blob/main/coding-skills-loading-dk68v8z0hevjpuiv.gif?raw=true)](https://github.com/theCodingWhiz)
 <h1 align="center">Hi 👋, I'm Muhammad Omar</h1>
 <h3 align="center">Sharing my journey in software development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/theCodingWhiz/theCodingWhiz/blob/main/emoji-me-face-maker.gif?raw=true" alt="thecodingwhiz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/theCodingWhiz/theCodingWhiz/blob/main/emoji-me-face-maker.gif?raw=true" alt="thecodingwhiz" autoplay/></a> </p>
 
 - 🌱 I’m currently learning **at Lafosse Academy to be a tech expert.**
 
