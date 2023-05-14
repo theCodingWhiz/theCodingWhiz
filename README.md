@@ -1,12 +1,12 @@
 [![Header](https://github.com/theCodingWhiz/theCodingWhiz/blob/main/coding-skills-loading-dk68v8z0hevjpuiv.gif?raw=true)](https://github.com/theCodingWhiz)
 
 <h1 align="center">Hi 👋, <br>
-async function coding_status(name) {  <br>
-  if (name === "coding whiz") {  <br>
-    return "coding whiz";  <br>
-  } else {  <br>
-    throw "Muhammad Omar";  <br>
-  }  <br>
+async function codingStatus(name) { <br>
+  if (name.toLowerCase() === "coding whiz") { <br>
+    return "coding whiz"; <br>
+  } else { <br>
+    throw "Muhammad Omar";
+  } <br>
 }</h1>
 <h3 align="center">I would like to share my journey in software development.</h3>
 
