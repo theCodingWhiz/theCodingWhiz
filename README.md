@@ -1,6 +1,13 @@
 [![Header](https://github.com/theCodingWhiz/theCodingWhiz/blob/main/coding-skills-loading-dk68v8z0hevjpuiv.gif?raw=true)](https://github.com/theCodingWhiz)
 
-<h1 align="center">Hi 👋, I'm Muhammad Omar aka theCodingWhiz</h1>
+<h1 align="center">Hi 👋, 
+async function coding_status(name) {
+  if (name === "coding whiz") {
+    return "coding whiz";
+  } else {
+    throw "Muhammad Omar";
+  }
+}</h1>
 <h3 align="center">I would like to share my journey in software development.</h3>
 
 <p align="center">
